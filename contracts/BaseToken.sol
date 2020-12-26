@@ -1,6 +1,6 @@
 pragma solidity 0.6.12;
 
-import "@nomiclabs/buidler/console.sol";
+import "hardhat/console.sol";
 import "@openzeppelin/contracts-ethereum-package/contracts/access/Ownable.sol";
 
 import "./lib/SafeMathInt.sol";
